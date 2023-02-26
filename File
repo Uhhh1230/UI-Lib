@@ -1241,7 +1241,7 @@ function Library:Create(TitleText)
 			Icon_5.BackgroundTransparency = 1.000
 			Icon_5.Position = UDim2.new(0, -20, 0, 0)
 			Icon_5.Size = UDim2.new(0, 14, 0, 14)
-			Icon_5.Image = "rbxassetid://10889391188"
+			Icon_5.Image = "rbxassetid://6942650375"
 			Icon_5.ImageColor3 = Color3.fromRGB(12, 170, 218)
 
 			UIPadding_10.Parent = Title_4
